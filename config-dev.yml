@@ -1,2 +1,2 @@
-prod: dev
+env: dev
 value: dev
